@@ -10,7 +10,7 @@
 ### 💼 About Me
 
 🎓 CSE Undergrad @ **Chandigarh University**  
-🧑‍💻 Co-Founder of **BigMid** and **LocalLoop**  
+🧑‍💻 Co-Founder of **BigMid**  
 🌱 Currently exploring **AI/ML**, **Blockchain (Ethereum/Polygon)**  
 🧪 Built projects like Chat Apps, Discord Bots, E-Waste Management Systems  
 📢 Panelist @ TechInvent TBI CU | Attendee @ ITIDS 2024  
