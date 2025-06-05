@@ -18,7 +18,7 @@
 
 ---
 
-### 🚀 My Tech Stack
+### 🚀 Tech Stack I have worked on
 
 - **Languages:** Java, C++, Python, JavaScript, MySQL  
 - **Frontend:** HTML, CSS, React.js  
