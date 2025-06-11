@@ -12,7 +12,7 @@
 🎓 CSE Undergrad @ **Chandigarh University**  
 🧑‍💻 Co-Founder of **BigMid**  
 🌱 Currently exploring **AI/ML**, **Blockchain (Ethereum/Polygon)**  
-🧪 Built projects like Chat Apps, Discord Bots, E-Waste Management Systems  
+🧪 Built projects like Chat Apps, Discord Bots, E-Waste Management Systems, NFT Minting, My Smart Contract(using Solidity)  
 📢 Panelist @ TechInvent TBI CU | Attendee @ ITIDS 2024  
 🏅 NCC Cadet | Disciplined | Passionate about innovation
 
