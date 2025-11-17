@@ -45,7 +45,6 @@
 
 ### 📫 Let's Connect!
 
-- 🌐 Website: [www.bigmid.tech](https://bigmid.tech)  
 - 💼 LinkedIn: [@Siddharth Chaudhary](https://www.linkedin.com/in/siddharth-chaudhary-6a4345251/)  
 - 📬 Email: [sssidhuchaudhry@gmail.com]
 
