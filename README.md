@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth Chaudhary</h1>
-<h3 align="center">Co-Founder @ BigMid | Computer Science Engineer</h3>
+<h3 align="center">Computer Science Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=siddharthchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,8 +9,7 @@
 
 ### 💼 About Me
 
-🎓 CSE Undergrad @ **Chandigarh University**  
-🧑‍💻 Co-Founder of **BigMid**  
+🎓 CSE Undergrad @ **Chandigarh University**    
 🌱 Currently exploring **AI/ML**, **Blockchain (Ethereum/Polygon)**  
 🧪 Built projects like Chat Apps, Discord Bots, E-Waste Management Systems, NFT Minting, My Smart Contract(using Solidity)  
 📢 Panelist @ TechInvent TBI CU | Attendee @ ITIDS 2024  
